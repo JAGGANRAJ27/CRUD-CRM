@@ -1,0 +1,13 @@
+.form
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 90px;
+    text-align: center;
+    background-color: #00BD9D;
+    transition: 0.4s;
+}
+.form:hover
+{
+    border-radius: 80px 0px;
+}
